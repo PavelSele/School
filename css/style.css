@@ -10,3 +10,7 @@ h1 {
 .table {
     grid-template-columns: 1fr 1fr 1fr;
 }
+.color{
+    background-color: beige;
+    height: 100%;
+}
