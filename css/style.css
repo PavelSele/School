@@ -2,3 +2,11 @@ body {
     margin: 0;
     padding: 0;
 }
+h1 {
+    color: aqua;
+    border-radius: 50%;
+
+}
+.table {
+    grid-template-columns: 1fr 1fr 1fr;
+}
